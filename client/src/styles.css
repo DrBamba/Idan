@@ -5,8 +5,8 @@
   --border: #292d34;
   --text: #e8eaee;
   --muted: #8b919c;
-  --accent: #ff5e3a;
-  --accent-2: #ffb347;
+  --accent: #8b5cf6;
+  --accent-2: #c084fc;
   --good: #4ade80;
   --bad: #f87171;
   --radius: 12px;
@@ -324,7 +324,7 @@ label > span {
 }
 
 .banner {
-  background: linear-gradient(90deg, #ff5e3a22, #ffb34722);
+  background: linear-gradient(90deg, #8b5cf622, #c084fc22);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 20px;
